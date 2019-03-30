@@ -7,4 +7,5 @@ Solo Test.add
 Sole.x2.deleted.line.10
 
 
-+++
++
++
